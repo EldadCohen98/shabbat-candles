@@ -1,0 +1,18 @@
+# Dependencies, build output and local settings
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.local
+*.log
+coverage/
+.DS_Store
+Thumbs.db
+
+# Local Claude Code settings
+.claude/
+
+# Editor settings
+.vscode/
