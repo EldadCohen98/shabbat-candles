@@ -117,8 +117,8 @@ Protected endpoints expect `Authorization: Bearer <token>`. An expired token ret
 **Prerequisites:** Node.js 20.19 or newer, npm, and PostgreSQL.
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/EldadCohen98/shabbat-candles.git
+cd shabbat-candles
 ```
 
 ## Environment Variables
